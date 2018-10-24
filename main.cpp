@@ -77,6 +77,7 @@ int main()
             {
                     cout<<board[r][c]<<" ";
             }
+            cout<<endl;
     }
     
   }while( playing );
